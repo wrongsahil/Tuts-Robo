@@ -1,7 +1,0 @@
-#include<sldio.h>
-#include<math.h>
-int main ( )(
-int A = 4, B = 5 ;
-printf("sum is %d ", A + B) ;
-printf("power of %d " %d is %If ", A , B , pow(A , B) );
-int C[6]=(1,2,3,4,5,7);)
